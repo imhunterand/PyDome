@@ -34,7 +34,7 @@ python main.py
 ### Tools Preview
 |    main.py    |
 | ------------- |
-|![Index](https://wired.me/wp-content/uploads/2020/12/2_Anti-missile-tech.gif)|
+|![Index](https://i.ibb.co.com/R7H02nx/2-Anti-missile-tech.gif)|
 
 
 
